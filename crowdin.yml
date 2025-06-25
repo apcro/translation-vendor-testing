@@ -1,7 +1,0 @@
-files:
-  - source: /crowdin/en.json
-    translation: /crowdin/%two_letters_code%.json
-  - source: /crowdin/nested1/en.json
-    translation: /crowdin/nested1/%two_letters_code%.json
-  - source: /crowdin/nested2/en.json
-    translation: /crowdin/nested2/%two_letters_code%.json
