@@ -1,0 +1,9 @@
+files:
+  - source: vendor1/en.json
+    translation: /vendor1/%two_letters_code%.json
+  - source: /en/en.json
+    translation: /en/%two_letters_code%.json
+  - source: /vendor1/nested1/en.json
+    translation: /vendor1/nested1/%two_letters_code%.json
+  - source: /vendor1/nested2/en.json
+    translation: /vendor1/nested2/%two_letters_code%.json
